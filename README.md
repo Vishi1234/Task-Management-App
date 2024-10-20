@@ -38,3 +38,27 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 >>>>>>> 77ee496 (Initial commit from Create Next App)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Brief Description of the approach of sorting tasks by priority
+1. The tasks are sorted by priority of high, medium and low.
+2. The priority order are given to each priority. 1 for High, 2 for Medium, and 3 for low.
+3. The Tasks are given colors based on their priority.
+4. When the task is given the priority, the code extracts the priority and arranges them according to the order set. 
+
+
